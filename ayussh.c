@@ -15,6 +15,7 @@ printf("enter the second no:");
 scanf("%d",&y);
 
 
-printf("the sum of the two numbers is %d",x+y);
+printf("the difference of the two numbers is %d",x-y);
 
 }
+
